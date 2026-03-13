@@ -1,0 +1,41 @@
+name: Update tvJSON from issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-json:
+    if: startsWith(github.event.issue.title, 'tvjson update')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Write issue body to tvJSON.json
+        run: printf '%s' '${{ github.event.issue.body }}' > tvJSON.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tvJSON.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update tvJSON.json from issue #${{ github.event.issue.number }}"
+          git push
+
+      - name: Close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            })
