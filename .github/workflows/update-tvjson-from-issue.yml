@@ -14,45 +14,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Validate and write JSON from issue body
+      - name: Extract JSON from issue body
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
 
-            const rawBody = context.payload.issue.body || '';
-            const trimmed = rawBody.trim();
+            const body = context.payload.issue.body || '';
 
-            console.log('Issue number:', context.payload.issue.number);
-            console.log('Body length:', rawBody.length);
-            console.log('Trimmed length:', trimmed.length);
-            console.log('Body preview:', trimmed.slice(0, 200));
+            const match = body.match(/JSON_START\s*([\s\S]*?)\s*JSON_END/);
 
-            if (!trimmed) {
-              core.setFailed('Issue body is empty after trimming. Refusing to overwrite tvJSON.json.');
+            if (!match) {
+              core.setFailed("No JSON found between JSON_START and JSON_END");
               return;
             }
+
+            const json = match[1].trim();
 
             try {
-              JSON.parse(trimmed);
+              JSON.parse(json);
             } catch (err) {
-              core.setFailed(`Issue body is not valid JSON: ${err.message}`);
+              core.setFailed("Invalid JSON: " + err.message);
               return;
             }
 
-            fs.writeFileSync('tvJSON.json', trimmed, 'utf8');
-            console.log('tvJSON.json written successfully.');
+            fs.writeFileSync("tvJSON.json", json);
+            console.log("tvJSON.json updated");
 
-      - name: Commit and push if changed
+      - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add tvJSON.json
-          git diff --cached --quiet && exit 0
-          git commit -m "Update tvJSON.json from issue #${{ github.event.issue.number }}"
+          git diff --cached --quiet || git commit -m "Update tvJSON.json"
           git push
 
       - name: Close issue
@@ -62,6 +58,6 @@ jobs:
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.issue.number,
-              state: 'closed'
-            })
+              issue_number: context.issue.number,
+              state: "closed"
+            });
