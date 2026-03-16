@@ -23,7 +23,6 @@ jobs:
             const fs = require('fs');
 
             const body = context.payload.issue.body || '';
-
             const match = body.match(/JSON_START\s*([\s\S]*?)\s*JSON_END/);
 
             if (!match) {
@@ -41,13 +40,17 @@ jobs:
             }
 
             fs.writeFileSync("tvJSON.json", json);
-            console.log("tvJSON.json updated");
+
+            fs.mkdirSync("docs", { recursive: true });
+            fs.writeFileSync("docs/tvJSON.json", json);
+
+            console.log("tvJSON.json and docs/tvJSON.json updated");
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add tvJSON.json
+          git add tvJSON.json docs/tvJSON.json
           git diff --cached --quiet || git commit -m "Update tvJSON.json"
           git push
 
