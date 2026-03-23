@@ -21,7 +21,7 @@ jobs:
       - name: Read Gmail and update JSON
         env:
           GMAIL_USER: ${{ secrets.lugy94766@gmail.com }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_APP_PASSWORD: ${{ secrets.wehf dyla urrb tgva }}
         run: python script.py
 
       - name: Commit changes
