@@ -22,7 +22,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python script.py
+        run: python .github/workflows/script.py
 
       - name: Commit changes
         run: |
