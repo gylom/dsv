@@ -37,4 +37,6 @@ jobs:
           fi
 
           git commit -m "Update tvJSON from Gmail"
+
+          git pull --rebase origin main
           git push
