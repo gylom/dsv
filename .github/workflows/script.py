@@ -28,7 +28,7 @@ def save_files(json_data):
     pretty_json = json.dumps(parsed, indent=2, ensure_ascii=False)
 
     # Save as Markdown (human-readable)
-    with open("tvJSON.md", "w", encoding="utf-8") as f:
+    with open("README.md", "w", encoding="utf-8") as f:
         f.write("# TV JSON Data\n\n")
         f.write("```json\n")
         f.write(pretty_json)
