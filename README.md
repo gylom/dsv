@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-03-24T17:40:01",
+  "updated": "2026-03-25T12:44:02",
   "rows": [
     {
-      "Kommet": "25/25",
-      "ikkeKommet": "-"
+      "Kommet": "0/24",
+      "ikkeKommet": "VTM3111, VTM3112, VTM3120, VTM3121, VTM3122, VTM3124, VTM3125, VTM3126, VTM3127, VTM3231, VTM3232, VTM3233, VTM3241, VTM3243, VTA3754, VTA3755, VTA3756, VTM3796, VTA3861, VTA3952, VTA3953, VTM3202, VTM3203, VTE3203"
     }
   ]
 }
