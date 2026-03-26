@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-03-26T15:50:01",
+  "updated": "2026-03-26T15:52:01",
   "rows": [
     {
-      "Kommet": "19/25",
-      "ikkeKommet": "Revetal, Sandefjord 32, Larvik 41, Larvik.Budbil, Andebu/kvelde, Mateuzs-VTE3203"
+      "Kommet": "20/25",
+      "ikkeKommet": "Revetal, Larvik 41, Larvik.Budbil, Andebu/kvelde, Mateuzs-VTE3203"
     }
   ]
 }
