@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-04-08T16:14:00",
+  "updated": "2026-04-08T16:16:00",
   "rows": [
     {
-      "Kommet": "20/24",
-      "ikkeKommet": "Revetal, Stokke, Sandefjord 32, Mateuzs-VTE3203"
+      "Kommet": "21/24",
+      "ikkeKommet": "Revetal, Stokke, Mateuzs-VTE3203"
     }
   ]
 }
