@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-04-27T16:10:01",
+  "updated": "2026-04-27T16:12:00",
   "rows": [
     {
-      "Kommet": "20/24",
-      "ikkeKommet": "Sandefjord 31, Larvik 41, Larvik 43, BO 61"
+      "Kommet": "21/24",
+      "ikkeKommet": "Sandefjord 31, Larvik 41, BO 61"
     }
   ]
 }
