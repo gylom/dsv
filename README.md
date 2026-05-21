@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-05-21T14:48:00",
+  "updated": "2026-05-21T14:50:01",
   "rows": [
     {
-      "Kommet": "4/24",
-      "ikkeKommet": "Horten 11, Tjome, Porsgrunn.Budbil, Farmandstredet, Slagen 24, Ryddebil 25, Revetal, Stokke, Sandefjord 31, Sandefjord 32, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Larvik.Budbil, Downtown 52, Skien.Budbil, Claus, Andebu/kvelde"
+      "Kommet": "5/24",
+      "ikkeKommet": "Horten 11, Tjome, Porsgrunn.Budbil, Farmandstredet, Slagen 24, Ryddebil 25, Revetal, Stokke, Sandefjord 31, Sandefjord 32, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Larvik.Budbil, Downtown 52, Skien.Budbil, Andebu/kvelde"
     }
   ]
 }
