@@ -1,4 +1,4 @@
-name: Update tvJSON from Gmail
+name: Update tvJSON from Gmail2
 
 on:
   workflow_dispatch:
