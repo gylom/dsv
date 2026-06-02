@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-06-02T15:54:00",
+  "updated": "2026-06-02T15:56:00",
   "rows": [
     {
-      "Kommet": "16/24",
-      "ikkeKommet": "Sandefjord 32, Skien Vest 54, Sentrum/Ost 56, Larvik.Budbil, Skien.Budbil, Claus, Gabriel, Andebu/kvelde"
+      "Kommet": "19/24",
+      "ikkeKommet": "Sandefjord 32, Skien Vest 54, Skien.Budbil, Claus, Andebu/kvelde"
     }
   ]
 }
