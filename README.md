@@ -2,7 +2,7 @@
 
 ```json
 {
-  "updated": "2026-06-08T13:02:00",
+  "updated": "2026-06-08T13:04:00",
   "rows": [
     {
       "Kommet": "#BLOCKED!",
