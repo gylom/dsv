@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-07-02T16:30:02",
+  "updated": "2026-07-02T16:32:00",
   "rows": [
     {
-      "Kommet": "22/25",
-      "ikkeKommet": "Tjome, Stokke, Sandefjord 32"
+      "Kommet": "23/25",
+      "ikkeKommet": "Tjome, Sandefjord 32"
     }
   ]
 }
