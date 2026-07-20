@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-07-20T16:18:00",
+  "updated": "2026-07-20T16:20:00",
   "rows": [
     {
-      "Kommet": "21/25",
-      "ikkeKommet": "Sentrum/Ost 56, Jonas , ClausLastebil, Stathelle"
+      "Kommet": "22/25",
+      "ikkeKommet": "Sentrum/Ost 56, Jonas , Stathelle"
     }
   ]
 }
