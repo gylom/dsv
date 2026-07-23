@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-07-23T14:52:00",
+  "updated": "2026-07-23T14:54:01",
   "rows": [
     {
-      "Kommet": "14/25",
-      "ikkeKommet": "Horten 11, Farmandstredet, Slagen 24, Revetal, Sandefjord 31, Larvik 41, Larvik 43, Gimsoy 55, Downtown 52, Andebu/kvelde, ClausLastebil"
+      "Kommet": "16/25",
+      "ikkeKommet": "Horten 11, Farmandstredet, Slagen 24, Revetal, Sandefjord 31, Larvik 41, Gimsoy 55, Andebu/kvelde, ClausLastebil"
     }
   ]
 }
