@@ -2,11 +2,11 @@
 
 ```json
 {
-  "updated": "2026-09-03T16:12:01",
+  "updated": "2026-09-03T16:14:01",
   "rows": [
     {
-      "Kommet": "12/25",
-      "ikkeKommet": "Farmandstredet, Revetal, Stokke, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Skien.Budbil, Gabriel, Andebu/kvelde, ClausLastebil"
+      "Kommet": "19/25",
+      "ikkeKommet": "Farmandstredet, Larvik 43, VTA3800, Gabriel, Andebu/kvelde, ClausLastebil"
     }
   ]
 }
