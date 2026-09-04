@@ -17,12 +17,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Write Power Automate data to tvJSON.json
+      - name: Update tvJSON and README
         run: |
           python - <<'PY'
           import json
           import os
 
+          # Read payload sent from Power Automate
           with open(os.environ["GITHUB_EVENT_PATH"], "r", encoding="utf-8") as f:
               event = json.load(f)
 
@@ -32,12 +33,76 @@ jobs:
               raise SystemExit("No client_payload received from Power Automate")
 
           rows = payload.get("rows", [])
+          updated = payload.get("updated", "")
+
           print(f"Received {len(rows)} rows")
-          print(f"Updated: {payload.get('updated')}")
+          print(f"Updated: {updated}")
+
+          # --------------------------------------------------
+          # Update docs/tvJSON.json
+          # --------------------------------------------------
+
+          os.makedirs("docs", exist_ok=True)
 
           with open("docs/tvJSON.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
               f.write("\n")
+
+          # --------------------------------------------------
+          # Update README.md
+          # --------------------------------------------------
+
+          start_marker = "<!-- TVJSON_START -->"
+          end_marker = "<!-- TVJSON_END -->"
+
+          def clean(value):
+              if value is None:
+                  return ""
+              return str(value).replace("|", "\\|").replace("\n", " ")
+
+          lines = [
+              start_marker,
+              "",
+              "## Xibo status",
+              "",
+              f"**Sist oppdatert:** {updated}",
+              "",
+              "| Kommet | Ikke kommet |",
+              "|---|---|",
+          ]
+
+          for row in rows:
+              kommet = clean(row.get("Kommet", ""))
+              ikke_kommet = clean(row.get("ikkeKommet", ""))
+              lines.append(f"| {kommet} | {ikke_kommet} |")
+
+          lines += [
+              "",
+              end_marker
+          ]
+
+          new_section = "\n".join(lines)
+
+          if os.path.exists("README.md"):
+              with open("README.md", "r", encoding="utf-8") as f:
+                  readme = f.read()
+          else:
+              readme = ""
+
+          if start_marker in readme and end_marker in readme:
+              before = readme.split(start_marker, 1)[0]
+              after = readme.split(end_marker, 1)[1]
+
+              readme = before + new_section + after
+          else:
+              if readme and not readme.endswith("\n"):
+                  readme += "\n"
+
+              readme += "\n" + new_section + "\n"
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
           PY
 
       - name: Commit changes
@@ -45,7 +110,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add docs/tvJSON.json
+          git add README.md docs/tvJSON.json
 
           if git diff --cached --quiet; then
             echo "No changes"
