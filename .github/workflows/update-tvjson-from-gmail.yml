@@ -1,7 +1,6 @@
-name: Update tvJSON from Gmail2
+name: Update tvJSON from Power Automate
 
 on:
-  workflow_dispatch:
   repository_dispatch:
     types: [run-update]
 
@@ -13,30 +12,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install dependencies
-        run: pip install imapclient
+      - name: Write Power Automate data to tvJSON.json
+        run: |
+          python - <<'PY'
+          import json
+          import os
 
-      - name: Read Gmail and update JSON
-        env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python .github/workflows/script.py
+          with open(os.environ["GITHUB_EVENT_PATH"], "r", encoding="utf-8") as f:
+              event = json.load(f)
+
+          payload = event.get("client_payload")
+
+          if not payload:
+              raise SystemExit("No client_payload received from Power Automate")
+
+          rows = payload.get("rows", [])
+          print(f"Received {len(rows)} rows")
+          print(f"Updated: {payload.get('updated')}")
+
+          with open("docs/tvJSON.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          PY
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md docs/tvJSON.json
+          git add docs/tvJSON.json
 
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
 
-          git commit -m "Update tvJSON from Gmail"
+          git commit -m "Update tvJSON from Power Automate"
           git push origin HEAD:main
