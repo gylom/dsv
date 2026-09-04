@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-04T16:15:01
+**Sist oppdatert:** 2026-09-04T16:17:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Tjome, Revetal, ClausLastebil |
+| 23/25 | Tjome, Revetal |
 
 <!-- TVJSON_END -->
