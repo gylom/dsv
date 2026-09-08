@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-tvjson
+  cancel-in-progress: true
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
@@ -39,14 +43,16 @@ jobs:
           print(f"Updated: {updated}")
 
           # --------------------------------------------------
-          # Update /tvJSON.json
+          # Update docs/tvJSON.json
           # --------------------------------------------------
 
-          with open("tvJSON.json", "w", encoding="utf-8") as f:
+          os.makedirs("docs", exist_ok=True)
+
+          with open("docs/tvJSON.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
               f.write("\n")
 
-          print("tvJSON.json updated")
+          print("docs/tvJSON.json updated")
 
           # --------------------------------------------------
           # Update README.md
@@ -111,7 +117,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md tvJSON.json
+          git add README.md docs/tvJSON.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
