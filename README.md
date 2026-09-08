@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-08T16:00:05
+**Sist oppdatert:** 2026-09-08T16:02:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/25 | Stokke, Larvik 41, Larvik 43, Skien Vest 54, Jonas , Andebu/kvelde, ClausLastebil |
+| 19/25 | Stokke, Larvik 41, Larvik 43, Skien Vest 54, Andebu/kvelde, ClausLastebil |
 
 <!-- TVJSON_END -->
