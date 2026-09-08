@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,14 +39,14 @@ jobs:
           print(f"Updated: {updated}")
 
           # --------------------------------------------------
-          # Update docs/tvJSON.json
+          # Update /tvJSON.json
           # --------------------------------------------------
 
-          os.makedirs("docs", exist_ok=True)
-
-          with open("docs/tvJSON.json", "w", encoding="utf-8") as f:
+          with open("tvJSON.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False, indent=2)
               f.write("\n")
+
+          print("tvJSON.json updated")
 
           # --------------------------------------------------
           # Update README.md
@@ -65,7 +65,7 @@ jobs:
               "",
               "## Xibo status",
               "",
-              f"**Sist oppdatert:** {updated}",
+              f"**Sist oppdatert:** {clean(updated)}",
               "",
               "| Kommet | Ikke kommet |",
               "|---|---|",
@@ -103,6 +103,7 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
 
+          print("README.md updated")
           PY
 
       - name: Commit changes
@@ -110,10 +111,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md docs/tvJSON.json
+          git add README.md tvJSON.json
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
             exit 0
           fi
 
