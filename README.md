@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-08T16:27:30
+**Sist oppdatert:** 2026-09-08T16:30:06
 
 | Kommet | Ikke kommet |
 |---|---|
-| 24/25 | Larvik 41 |
+| 25/25 | Alle kommet |
 
 <!-- TVJSON_END -->
