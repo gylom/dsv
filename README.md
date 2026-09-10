@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-10T16:12:32
+**Sist oppdatert:** 2026-09-10T16:15:06
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/25 | Ryddebil 25, Revetal, Sandefjord 31, Larvik 41, Larvik 43, Skien Vest 54, ClausLastebil |
+| 20/25 | Ryddebil 25, Revetal, Larvik 41, Skien Vest 54, ClausLastebil |
 
 <!-- TVJSON_END -->
