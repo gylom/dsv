@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-14T16:10:02
+**Sist oppdatert:** 2026-09-14T16:12:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/25 | Tjome, Revetal, Larvik 41, Larvik 43, Ryddebil 59, BO 61, ClausLastebil |
+| 19/25 | Tjome, Revetal, Larvik 41, Ryddebil 59, BO 61, ClausLastebil |
 
 <!-- TVJSON_END -->
