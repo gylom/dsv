@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-15T16:22:30
+**Sist oppdatert:** 2026-09-15T16:25:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Horten.Budbil, Tjome, Larvik 43, BO 61, ClausLastebil |
+| 21/25 | Horten.Budbil, Tjome, Larvik 43, ClausLastebil |
 
 <!-- TVJSON_END -->
