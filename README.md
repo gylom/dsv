@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-16T16:02:35
+**Sist oppdatert:** 2026-09-16T16:05:06
 
 | Kommet | Ikke kommet |
 |---|---|
-| 23/25 | Horten 11, ClausLastebil |
+| 24/25 | ClausLastebil |
 
 <!-- TVJSON_END -->
