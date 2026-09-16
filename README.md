@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-16T15:57:30
+**Sist oppdatert:** 2026-09-16T16:00:11
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Horten 11, Horten.Budbil, VTA3800, ClausLastebil, Stathelle |
+| 22/25 | Horten 11, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
