@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-17T15:57:31
+**Sist oppdatert:** 2026-09-17T16:00:09
 
 | Kommet | Ikke kommet |
 |---|---|
-| 19/25 | Tjome, Sandefjord 32, Larvik 41, Larvik 43, VTA3800, ClausLastebil |
+| 21/25 | Sandefjord 32, Larvik 43, VTA3800, ClausLastebil |
 
 <!-- TVJSON_END -->
