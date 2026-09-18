@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-18T15:07:32
+**Sist oppdatert:** 2026-09-18T15:10:03
 
 | Kommet | Ikke kommet |
 |---|---|
-| 10/25 | Horten 11, Horten.Budbil, Slagen 24, Ryddebil 25, Revetal, Stokke, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, VTA3800, Jonas , Gabriel, ClausLastebil, Stathelle |
+| 11/25 | Horten 11, Horten.Budbil, Slagen 24, Revetal, Stokke, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, VTA3800, Jonas , Gabriel, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
