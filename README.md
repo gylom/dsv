@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-18T16:00:10
+**Sist oppdatert:** 2026-09-18T16:02:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/25 | Larvik 43, Jonas , ClausLastebil, Stathelle |
+| 24/25 | ClausLastebil |
 
 <!-- TVJSON_END -->
