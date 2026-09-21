@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-18T18:00:01
+**Sist oppdatert:** 2026-09-21T12:45:17
 
 | Kommet | Ikke kommet |
 |---|---|
-| 24/25 | ClausLastebil |
+| #BLOKKERT! | #BLOKKERT! |
 
 <!-- TVJSON_END -->
