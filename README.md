@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-21T16:35:12
+**Sist oppdatert:** 2026-09-21T16:37:57
 
 | Kommet | Ikke kommet |
 |---|---|
-| 24/25 | BO 61 |
+| 25/25 | Alle kommet |
 
 <!-- TVJSON_END -->
