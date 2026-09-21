@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-21T15:40:08
+**Sist oppdatert:** 2026-09-21T15:42:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 13/25 | Horten.Budbil, Tjome, Farmandstredet, Ryddebil 25, Revetal, Stokke, Larvik 43, Skien Vest 54, Sentrum/Ost 56, BO 61, ClausLastebil, Stathelle |
+| 14/25 | Horten.Budbil, Tjome, Farmandstredet, Ryddebil 25, Revetal, Stokke, Larvik 43, Skien Vest 54, BO 61, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
