@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-24T15:42:33
+**Sist oppdatert:** 2026-09-24T15:45:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/25 | Horten 11, Porsgrunn.Budbil, Larvik 43, VTA3800, Skien.Budbil, Gabriel, ClausLastebil |
+| 20/25 | Horten 11, Porsgrunn.Budbil, Larvik 43, VTA3800, ClausLastebil |
 
 <!-- TVJSON_END -->
