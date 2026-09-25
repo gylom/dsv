@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-25T16:50:02
+**Sist oppdatert:** 2026-09-25T16:52:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/25 | Larvik 43, Ryddebil 59, VTA3800, Stathelle |
+| 22/25 | Ryddebil 59, VTA3800, Stathelle |
 
 <!-- TVJSON_END -->
