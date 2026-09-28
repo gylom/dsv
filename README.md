@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-09-28T16:10:04
+**Sist oppdatert:** 2026-09-28T16:12:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Tjome, Larvik 41, Larvik 43, BO 61, Stathelle |
+| 21/25 | Tjome, Larvik 43, BO 61, Stathelle |
 
 <!-- TVJSON_END -->
