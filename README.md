@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-01T15:30:01
+**Sist oppdatert:** 2026-10-01T15:32:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 13/25 | Horten.Budbil, Tjome, Revetal, Stokke, Sandefjord 31, Larvik 41, Larvik 43, Skien Vest 54, Ryddebil 59, VTA3800, Skien.Budbil, ClausLastebil |
+| 14/25 | Horten.Budbil, Tjome, Revetal, Stokke, Sandefjord 31, Larvik 41, Larvik 43, Skien Vest 54, Ryddebil 59, VTA3800, ClausLastebil |
 
 <!-- TVJSON_END -->
