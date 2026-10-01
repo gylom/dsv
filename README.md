@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-01T16:32:31
+**Sist oppdatert:** 2026-10-01T16:35:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Larvik 43, Ryddebil 59, ClausLastebil |
+| 23/25 | Ryddebil 59, ClausLastebil |
 
 <!-- TVJSON_END -->
