@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-02T16:15:01
+**Sist oppdatert:** 2026-10-02T16:17:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Ryddebil 59, ClausLastebil, Stathelle |
+| 23/25 | Ryddebil 59, Stathelle |
 
 <!-- TVJSON_END -->
