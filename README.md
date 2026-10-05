@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-05T15:20:00
+**Sist oppdatert:** 2026-10-05T15:22:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 13/25 | Horten 11, Horten.Budbil, Ryddebil 25, Sandefjord 32, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Ryddebil 59, Downtown 52, Stathelle |
+| 15/25 | Horten 11, Horten.Budbil, Ryddebil 25, Sandefjord 32, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Ryddebil 59, Stathelle |
 
 <!-- TVJSON_END -->
