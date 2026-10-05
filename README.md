@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-05T15:47:30
+**Sist oppdatert:** 2026-10-05T15:50:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 19/25 | Horten 11, Horten.Budbil, Sandefjord 32, Larvik 43, Ryddebil 59, Stathelle |
+| 20/25 | Horten.Budbil, Sandefjord 32, Larvik 43, Ryddebil 59, Stathelle |
 
 <!-- TVJSON_END -->
