@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-06T16:05:02
+**Sist oppdatert:** 2026-10-06T16:07:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/25 | Skien Vest 54, Sentrum/Ost 56, Ryddebil 59, ClausLastebil |
+| 23/25 | Ryddebil 59, ClausLastebil |
 
 <!-- TVJSON_END -->
