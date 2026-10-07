@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-07T16:40:01
+**Sist oppdatert:** 2026-10-07T16:42:33
 
 | Kommet | Ikke kommet |
 |---|---|
-| 23/25 | Horten.Budbil, Ryddebil 59 |
+| 24/25 | Ryddebil 59 |
 
 <!-- TVJSON_END -->
