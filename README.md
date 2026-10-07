@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-07T16:05:00
+**Sist oppdatert:** 2026-10-07T16:07:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/25 | Horten.Budbil, Skien Vest 54, Ryddebil 59, ClausLastebil |
+| 22/25 | Horten.Budbil, Ryddebil 59, ClausLastebil |
 
 <!-- TVJSON_END -->
