@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-08T16:30:00
+**Sist oppdatert:** 2026-10-08T16:32:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 23/25 | Sentrum/Ost 56, Ryddebil 59 |
+| 24/25 | Ryddebil 59 |
 
 <!-- TVJSON_END -->
