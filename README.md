@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-09T16:07:30
+**Sist oppdatert:** 2026-10-09T16:10:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/25 | Horten.Budbil, Tjome, Stokke, Larvik 41, Skien Vest 54, Gimsoy 55, Ryddebil 59, ClausLastebil, Stathelle |
+| 19/25 | Stokke, Skien Vest 54, Gimsoy 55, Ryddebil 59, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
