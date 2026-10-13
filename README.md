@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-13T15:47:30
+**Sist oppdatert:** 2026-10-13T15:50:05
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/25 | Revetal, Stokke, Larvik 41, Larvik 43, Skien Vest 54, Sentrum/Ost 56, Ryddebil 59, BO 61, ClausLastebil |
+| 18/25 | Stokke, Larvik 41, Larvik 43, Skien Vest 54, Ryddebil 59, BO 61, ClausLastebil |
 
 <!-- TVJSON_END -->
