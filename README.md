@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-14T16:05:00
+**Sist oppdatert:** 2026-10-14T16:07:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Tjome, Larvik 41, Ryddebil 59 |
+| 22/24 | Tjome, Ryddebil 59 |
 
 <!-- TVJSON_END -->
