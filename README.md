@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-15T16:20:00
+**Sist oppdatert:** 2026-10-15T16:22:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/25 | Stokke, Sandefjord 32, Larvik 41, Larvik 43, Ryddebil 59, VTA3800, Gabriel |
+| 19/25 | Stokke, Larvik 41, Larvik 43, Ryddebil 59, VTA3800, Gabriel |
 
 <!-- TVJSON_END -->
