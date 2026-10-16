@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-16T16:02:30
+**Sist oppdatert:** 2026-10-16T16:05:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/25 | Sandefjord 32, Larvik 41, Ryddebil 59, ClausLastebil |
+| 22/25 | Sandefjord 32, Ryddebil 59, ClausLastebil |
 
 <!-- TVJSON_END -->
