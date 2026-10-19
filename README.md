@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-19T16:10:00
+**Sist oppdatert:** 2026-10-19T16:12:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/25 | Tjome, Revetal, Stokke, Sandefjord 32, Larvik 41, Skien Vest 54, Ryddebil 59, Skien.Budbil, Stathelle |
+| 17/25 | Tjome, Revetal, Stokke, Sandefjord 32, Larvik 41, Ryddebil 59, Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
