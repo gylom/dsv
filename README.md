@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-21T16:42:42
+**Sist oppdatert:** 2026-10-21T16:45:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/24 | Tjome, Sandefjord 32, Larvik 41, Ryddebil 59, VTA3800, Skien.Budbil, Gabriel, ClausLastebil |
+| 19/24 | Tjome, Sandefjord 32, Ryddebil 59, Skien.Budbil, Gabriel |
 
 <!-- TVJSON_END -->
