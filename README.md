@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-26T16:17:30
+**Sist oppdatert:** 2026-10-26T16:20:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/24 | Tjome, Sandefjord 32, Ryddebil 59, BO 61 |
+| 21/24 | Tjome, Ryddebil 59, BO 61 |
 
 <!-- TVJSON_END -->
