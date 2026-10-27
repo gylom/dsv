@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-27T16:30:04
+**Sist oppdatert:** 2026-10-27T16:32:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Tjome, Stokke, Ryddebil 59, Skien.Budbil, ClausLastebil |
+| 21/25 | Tjome, Stokke, Ryddebil 59, Skien.Budbil |
 
 <!-- TVJSON_END -->
