@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-27T16:17:31
+**Sist oppdatert:** 2026-10-27T16:20:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/25 | Tjome, Stokke, Sandefjord.Budbil, Sentrum/Ost 56, Ryddebil 59, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
+| 18/25 | Tjome, Stokke, Ryddebil 59, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
 
 <!-- TVJSON_END -->
