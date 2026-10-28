@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-28T16:12:31
+**Sist oppdatert:** 2026-10-28T16:15:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Tjome, Ryddebil 59, VTA3800 |
+| 22/24 | Tjome, Ryddebil 59 |
 
 <!-- TVJSON_END -->
