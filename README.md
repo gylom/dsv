@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-28T15:07:32
+**Sist oppdatert:** 2026-10-28T15:10:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 5/24 | Tjome, Porsgrunn.Budbil, Slagen 24, Ryddebil 25, Revetal, Stokke, Sandefjord 32, Sandefjord.Budbil, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Ryddebil 59, VTA3800, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
+| 6/24 | Tjome, Porsgrunn.Budbil, Slagen 24, Ryddebil 25, Revetal, Sandefjord 32, Sandefjord.Budbil, Larvik 41, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Ryddebil 59, VTA3800, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
 
 <!-- TVJSON_END -->
