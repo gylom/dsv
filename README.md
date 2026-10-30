@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-30T16:45:01
+**Sist oppdatert:** 2026-10-30T16:47:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Tjome, Ryddebil 59, Skien.Budbil |
+| 22/24 | Tjome, Ryddebil 59 |
 
 <!-- TVJSON_END -->
