@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-30T15:22:30
+**Sist oppdatert:** 2026-10-30T15:25:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 9/24 | Tjome, Farmandstredet, Revetal, Stokke, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Ryddebil 59, VTA3800, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
+| 10/24 | Tjome, Farmandstredet, Revetal, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Ryddebil 59, VTA3800, Downtown 52, Skien.Budbil, Gabriel, ClausLastebil |
 
 <!-- TVJSON_END -->
