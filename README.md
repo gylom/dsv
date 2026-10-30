@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-10-30T16:02:30
+**Sist oppdatert:** 2026-10-30T16:05:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/24 | Tjome, Revetal, Sandefjord 32, Ryddebil 59, VTA3800, Skien.Budbil, Gabriel, ClausLastebil |
+| 17/24 | Tjome, Revetal, Sandefjord 32, Ryddebil 59, Skien.Budbil, Gabriel, ClausLastebil |
 
 <!-- TVJSON_END -->
