@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-02T16:35:07
+**Sist oppdatert:** 2026-11-02T16:37:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/21 | Stokke |
+| 21/21 | Alle kommet |
 
 <!-- TVJSON_END -->
