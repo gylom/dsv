@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-03T16:12:31
+**Sist oppdatert:** 2026-11-03T16:15:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/24 | ClausLastebil, Stathelle |
+| 23/24 | Stathelle |
 
 <!-- TVJSON_END -->
