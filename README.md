@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-04T16:25:01
+**Sist oppdatert:** 2026-11-04T16:27:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/23 | Skien Vest 54, Gimsoy 55, VTA3800 |
+| 22/23 | Gimsoy 55 |
 
 <!-- TVJSON_END -->
