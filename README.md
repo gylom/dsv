@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-04T15:52:30
+**Sist oppdatert:** 2026-11-04T15:55:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 13/23 | Horten 11, Sandefjord 32, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Downtown 52, Gabriel, ClausLastebil, Stathelle |
+| 15/23 | Horten 11, Sandefjord 32, Skien Vest 54, Gimsoy 55, VTA3800, Gabriel, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
