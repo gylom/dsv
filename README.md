@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-06T15:52:31
+**Sist oppdatert:** 2026-11-06T15:55:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/23 | Sandefjord 32, Larvik 43, Skien Vest 54, ClausLastebil, Stathelle |
+| 19/23 | Sandefjord 32, Larvik 43, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
