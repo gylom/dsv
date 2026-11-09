@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-09T16:12:31
+**Sist oppdatert:** 2026-11-09T16:15:05
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/24 | Revetal, Stokke, Sandefjord 31, Sandefjord 32, Skien.Budbil, David.Notteroy |
+| 20/24 | Stokke, Sandefjord 31, Skien.Budbil, David.Notteroy |
 
 <!-- TVJSON_END -->
