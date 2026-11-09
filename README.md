@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-09T16:27:30
+**Sist oppdatert:** 2026-11-09T16:30:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/24 | Stokke, Skien.Budbil |
+| 23/24 | Skien.Budbil |
 
 <!-- TVJSON_END -->
