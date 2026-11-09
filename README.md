@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-09T16:25:01
+**Sist oppdatert:** 2026-11-09T16:27:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Stokke, Skien.Budbil, David.Notteroy |
+| 22/24 | Stokke, Skien.Budbil |
 
 <!-- TVJSON_END -->
