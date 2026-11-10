@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-10T15:42:31
+**Sist oppdatert:** 2026-11-10T15:45:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 17/25 | Horten 11, Larvik 41, Larvik 43, Skien Vest 54, Sentrum/Ost 56, Downtown 52, ClausLastebil, Stathelle |
+| 18/25 | Larvik 41, Larvik 43, Skien Vest 54, Sentrum/Ost 56, Downtown 52, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
