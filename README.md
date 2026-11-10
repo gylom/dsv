@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-10T16:05:01
+**Sist oppdatert:** 2026-11-10T16:12:32
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Larvik 41, Downtown 52, Stathelle |
+| 24/25 | Stathelle |
 
 <!-- TVJSON_END -->
