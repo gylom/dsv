@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-11T15:35:00
+**Sist oppdatert:** 2026-11-11T15:37:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 10/24 | Ryddebil 25, Revetal, Stokke, Sandefjord 31, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Downtown 52, Gabriel, ClausLastebil, David.Notteroy |
+| 12/24 | Revetal, Stokke, Sandefjord 31, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Downtown 52, ClausLastebil, David.Notteroy |
 
 <!-- TVJSON_END -->
