@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-12T16:32:30
+**Sist oppdatert:** 2026-11-12T16:35:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Larvik 43, Skien.Budbil, Stathelle |
+| 23/25 | Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
