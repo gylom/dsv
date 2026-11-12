@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-12T16:20:01
+**Sist oppdatert:** 2026-11-12T16:22:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Larvik 43, Skien.Budbil, ClausLastebil, David.Notteroy, Stathelle |
+| 21/25 | Larvik 43, Skien.Budbil, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
