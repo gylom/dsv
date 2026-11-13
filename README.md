@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-13T16:07:31
+**Sist oppdatert:** 2026-11-13T16:10:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/24 | Larvik 41, Larvik 43, Skien Vest 54, Skien.Budbil |
+| 21/24 | Larvik 41, Skien Vest 54, Skien.Budbil |
 
 <!-- TVJSON_END -->
