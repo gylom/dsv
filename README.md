@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-13T16:15:01
+**Sist oppdatert:** 2026-11-13T16:17:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/24 | Skien Vest 54, Skien.Budbil |
+| 23/24 | Skien.Budbil |
 
 <!-- TVJSON_END -->
