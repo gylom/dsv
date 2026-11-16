@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-16T16:35:00
+**Sist oppdatert:** 2026-11-16T16:37:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Sandefjord 32, Skien.Budbil, Stathelle |
+| 22/24 | Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
