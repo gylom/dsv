@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-17T16:30:12
+**Sist oppdatert:** 2026-11-17T16:32:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 19/25 | Porsgrunn.Budbil, Sandefjord 32, Gimsoy 55, Skien.Budbil, ClausLastebil, Stathelle |
+| 22/25 | Gimsoy 55, Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
