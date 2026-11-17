@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-17T16:32:31
+**Sist oppdatert:** 2026-11-17T16:35:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Gimsoy 55, Skien.Budbil, Stathelle |
+| 23/25 | Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
