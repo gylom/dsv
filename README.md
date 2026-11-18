@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-18T16:00:07
+**Sist oppdatert:** 2026-11-18T16:02:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/24 | Revetal, Larvik 41, Downtown 52, ClausLastebil, David.Notteroy, Stathelle |
+| 21/24 | Revetal, David.Notteroy, Stathelle |
 
 <!-- TVJSON_END -->
