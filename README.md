@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-18T16:15:00
+**Sist oppdatert:** 2026-11-18T16:17:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Revetal, David.Notteroy, Stathelle |
+| 23/24 | Stathelle |
 
 <!-- TVJSON_END -->
