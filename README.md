@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-19T16:25:01
+**Sist oppdatert:** 2026-11-19T16:27:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 24/25 | Stathelle |
+| 25/25 | Alle kommet |
 
 <!-- TVJSON_END -->
