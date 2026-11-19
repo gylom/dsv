@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-19T16:00:02
+**Sist oppdatert:** 2026-11-19T16:02:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Farmandstredet, Revetal, Larvik 43, ClausLastebil, Stathelle |
+| 21/25 | Farmandstredet, Revetal, Larvik 43, Stathelle |
 
 <!-- TVJSON_END -->
