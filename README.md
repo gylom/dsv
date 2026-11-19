@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-19T15:50:01
+**Sist oppdatert:** 2026-11-19T15:52:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 17/25 | Farmandstredet, Revetal, Sandefjord 32, Larvik 43, Skien Vest 54, Downtown 52, ClausLastebil, Stathelle |
+| 18/25 | Farmandstredet, Revetal, Sandefjord 32, Larvik 43, Skien Vest 54, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
