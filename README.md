@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-20T15:55:03
+**Sist oppdatert:** 2026-11-20T15:57:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 19/24 | Stokke, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Stathelle |
+| 21/24 | Stokke, Sentrum/Ost 56, Stathelle |
 
 <!-- TVJSON_END -->
