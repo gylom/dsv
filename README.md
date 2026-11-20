@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-20T14:50:04
+**Sist oppdatert:** 2026-11-20T14:52:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 8/24 | Horten 11, Horten.Budbil, Porsgrunn.Budbil, Revetal, Stokke, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Downtown 52, Skien.Budbil, Gabriel, David.Notteroy, Stathelle |
+| 9/24 | Horten 11, Porsgrunn.Budbil, Revetal, Stokke, Sandefjord 32, Larvik 43, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, VTA3800, Downtown 52, Skien.Budbil, Gabriel, David.Notteroy, Stathelle |
 
 <!-- TVJSON_END -->
