@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-20T16:22:31
+**Sist oppdatert:** 2026-11-20T16:25:01
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/24 | Sentrum/Ost 56, Stathelle |
+| 23/24 | Sentrum/Ost 56 |
 
 <!-- TVJSON_END -->
