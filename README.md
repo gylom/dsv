@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-20T15:47:30
+**Sist oppdatert:** 2026-11-20T15:50:04
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/24 | Stokke, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, David.Notteroy, Stathelle |
+| 19/24 | Stokke, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Stathelle |
 
 <!-- TVJSON_END -->
