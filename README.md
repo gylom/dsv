@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-20T15:40:10
+**Sist oppdatert:** 2026-11-20T15:42:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/24 | Stokke, Sandefjord 32, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, Gabriel, David.Notteroy, Stathelle |
+| 18/24 | Stokke, Skien Vest 54, Gimsoy 55, Sentrum/Ost 56, David.Notteroy, Stathelle |
 
 <!-- TVJSON_END -->
