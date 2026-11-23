@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-23T16:05:00
+**Sist oppdatert:** 2026-11-23T16:07:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 18/24 | Sandefjord 32, Skien.Budbil, Gabriel, ClausLastebil, David.Notteroy, Stathelle |
+| 19/24 | Sandefjord 32, Skien.Budbil, ClausLastebil, David.Notteroy, Stathelle |
 
 <!-- TVJSON_END -->
