@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-24T16:22:31
+**Sist oppdatert:** 2026-11-24T16:25:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/25 | Downtown 52, Skien.Budbil, Stathelle |
+| 23/25 | Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
