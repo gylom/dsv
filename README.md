@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-24T16:15:01
+**Sist oppdatert:** 2026-11-24T16:17:31
 
 | Kommet | Ikke kommet |
 |---|---|
-| 20/25 | Sentrum/Ost 56, Downtown 52, Skien.Budbil, ClausLastebil, Stathelle |
+| 21/25 | Sentrum/Ost 56, Downtown 52, Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
