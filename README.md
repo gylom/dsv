@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-25T16:17:30
+**Sist oppdatert:** 2026-11-25T16:20:02
 
 | Kommet | Ikke kommet |
 |---|---|
-| 22/24 | Sandefjord 32, Gabriel |
+| 23/24 | Gabriel |
 
 <!-- TVJSON_END -->
