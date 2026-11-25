@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-25T16:15:02
+**Sist oppdatert:** 2026-11-25T16:17:30
 
 | Kommet | Ikke kommet |
 |---|---|
-| 21/24 | Porsgrunn.Budbil, Sandefjord 32, Gabriel |
+| 22/24 | Sandefjord 32, Gabriel |
 
 <!-- TVJSON_END -->
