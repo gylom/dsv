@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-26T16:45:02
+**Sist oppdatert:** 2026-11-26T16:47:33
 
 | Kommet | Ikke kommet |
 |---|---|
-| 23/25 | Porsgrunn.Budbil, Stathelle |
+| 24/25 | Stathelle |
 
 <!-- TVJSON_END -->
