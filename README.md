@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-27T16:12:32
+**Sist oppdatert:** 2026-11-27T16:15:00
 
 | Kommet | Ikke kommet |
 |---|---|
-| 16/24 | Porsgrunn.Budbil, Ryddebil 25, Revetal, Sandefjord 32, Larvik 43, Skien.Budbil, ClausLastebil, Stathelle |
+| 17/24 | Porsgrunn.Budbil, Ryddebil 25, Revetal, Sandefjord 32, Skien.Budbil, ClausLastebil, Stathelle |
 
 <!-- TVJSON_END -->
