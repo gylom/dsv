@@ -4,7 +4,7 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-27T17:52:31
+**Sist oppdatert:** 2026-11-27T17:55:00
 
 | Kommet | Ikke kommet |
 |---|---|
