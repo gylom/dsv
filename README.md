@@ -4,10 +4,10 @@
 
 ## Xibo status
 
-**Sist oppdatert:** 2026-11-27T16:25:00
+**Sist oppdatert:** 2026-11-27T16:27:33
 
 | Kommet | Ikke kommet |
 |---|---|
-| 19/24 | Ryddebil 25, Revetal, Sandefjord 32, Skien.Budbil, Stathelle |
+| 20/24 | Ryddebil 25, Sandefjord 32, Skien.Budbil, Stathelle |
 
 <!-- TVJSON_END -->
